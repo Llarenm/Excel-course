@@ -1,0 +1,286 @@
+﻿¿Para qué sirve Excel?
+
+
+Excel es una herramienta que permite editar hojas de cálculo donde se puede organizar grandes cantidades de datos, ayudando a obtener una mejor información, incluso hacer seguimiento de esta.         
+
+
+* Analizar información .
+* Utilizar cálculos y fórmulas.
+* Separar y unificar datos.
+* Graficar información. 
+
+
+Excel, Comandos
+
+
+Atajos de teclado en Excel para Mac:
+
+
+⌘ + C: Copia la selección actual al portapapeles.
+⌘ + V: Pega el contenido del portapapeles en la ubicación seleccionada.
+⌘ + S: Guarda el archivo actual en su ubicación actual.
+⌘ + Shift + + Inserta una fila en la posición actual.
+⌘ + -         Elimina la fila seleccionada.
+⌘ + ↓         Selecciona la celda directamente debajo de la celda actual.
+⌘ + 1         Abre el cuadro de diálogo de formato de celdas.
+⌘ + B         Aplica o quita el formato de negrita al texto seleccionado.
+⌘ + I         Aplica o quita el formato de cursiva al texto seleccionado.
+⌘ + U         Aplica o quita el formato de subrayado al texto seleccionado.
+
+
+Atajos de teclado en Excel para Windows:
+
+
+Ctrl + C: Copia la selección actual al portapapeles.
+Ctrl + V: Pega el contenido del portapapeles en la ubicación seleccionada.
+Ctrl + S: Guarda el archivo actual en su ubicación actual.
+Ctrl + Shift + +: Inserta una fila en la posición actual.
+Ctrl + -: Elimina la fila seleccionada.
+Ctrl + ↓: Selecciona la celda directamente debajo de la celda actual.
+(lo mismo si usas otras fechas, te lleva a la celda final en la dirección de la flecha)
+
+Ctrl + 1: Abre el cuadro de diálogo de formato de celdas.
+Ctrl + B: Aplica o quita el formato de negrita al texto seleccionado.
+Ctrl + I: Aplica o quita el formato de cursiva al texto seleccionado.
+Ctrl + U: Aplica o quita el formato de subrayado al texto seleccionado.
+Windows + R: Abrir aplicación
+
+
+Ctrl + Espacio: Selecciona una columna completa
+Ctrl + Shift: Selecciona una fila completa
+
+
+Si tienes configurado Excel en idioma inglés, estos son los cambios:
+
+
+* Grabar Control + G = Save = Ctrl + S
+* Formato Negrita de fuente Control + N = Bold = Ctrl + B
+* Formato cursiva de fuente Control + K = Italic = Ctrl + I
+* Formato subrayado de fuente Control + S = Underline = Ctrl + U
+
+
+
+
+Fichas de Excel
+
+
+Inicio: Grupos
+  
+
+
+
+* Deshacer
+* Portapapeles
+* Fuente
+* Alineación
+* Número
+* Estilos
+* Celdas
+* Edición
+* Análisis
+
+
+
+
+Insertar: Grupos
+* Tablas
+* Ilustraciones
+* Complementos
+* Gráfico
+* Paseos
+* Minigráficos
+* Filtros
+* Vínculos
+* Comentario
+* Texto
+
+
+
+
+Disposicion de paginas: Grupos
+* Temas
+* Configuracion de pagina
+* Ajustar área de impresión
+* Opciones de hoja
+* Organizar
+
+
+Formulas: Grupos
+* Biblioteca de funciones 
+* Nombres definido
+* Auditoría de fórmulas
+* Ventana de inspección
+* Cálculo
+
+
+Datos: Grupo
+* Obtener y transformar datos
+* Consultas y conexiones
+* Tipos de datos
+* Ordenar y filtrar
+* Herramientas de datos
+* Previsión
+* Esquema
+
+
+Revisar: Grupos
+* Revisión
+* Accesibilidad
+* Datos
+* Idioma
+* Comentarios
+* Notas
+* Proteger
+* Entrada de lápiz
+
+
+Vista: Grupos
+* Vista de Hoja
+* Vista de libro
+* Mostrar
+* Zoom
+* Ventana
+* Macros
+
+
+
+
+  
+
+
+
+Vistas de página y Zoom
+Ver salto en Página
+mostrar solo las celdas en las que hay contenido.
+Vista previa de salto de página 
+Muestra una vista preliminar donde se interrumpen las páginas al imprimir un libro
+Diseño de página
+Transformación de excel en hojas.
+
+
+Otros elementos para la mejora de vista del documento, podemos ocultar o mostrar:
+Ocultar o mostrar
+Barra de fórmulas
+Lineas de cuadricula
+Headings(encabezados)
+Ventana de tareas
+Zoom
+Personalizar cuando quiero ampliar mi documentos
+Ampliar Selección
+Ampliar selección a un rango de celdas seleccionadas
+Nueva ventana
+Una copia de la ventana en la que estamos, ventana 1:2
+Organizar todo
+Ver las ventanas en mosaico, en horizontal, vertical o cascada.
+
+
+
+
+Congelar paneles
+Inmovilizar paneles
+Permite inmovilizar una parte del documento, sin dejar de ver la información que hemos dejado fijada, podemos navegar en el resto del documento.
+
+
+
+
+Formato de celdas, Inicio
+
+
+Alineación, formato y modificaciones de texto o números
+
+
+Copiar, cortar y pegar
+
+
+En Excel, las funciones de copiar, cortar y pegar se encuentran en la sección "Portapapeles" de la pestaña "Inicio". Al copiar, se duplica la información seleccionada con CTRL + C y se pega en otra ubicación con CTRL + V. Cortar, con CTRL + X, mueve la información en lugar de duplicarla. Además, el menú de pegado ofrece opciones para seleccionar qué características específicas se desean pegar.
+
+
+   * Copiar tabla: selecciona la tabla, ir a Inicio, clic en Copiar y la tabla quedará seleccionada. Luego selecciona la celda donde vas a pegar la selección, ir a Inicio y clic en pegar
+   * Atajo de copiar: Ctrl + c
+   * Atajo de pegar: Ctrl + v
+   * Atajo de selección a la derecha hasta donde haya datos: Ctrl + Shift + flecha derecha
+   * Atajo de selección a la izquierda hasta donde haya datos: Ctrl + Shift + flecha abajo
+   * Cortar tabla: selecciona la tabla, ir a Inicio, clic en Cortar, seleccionar celda donde ubicar la tabla y clic en Pegar.
+   * Atajo de cortar: Ctrl + x
+   * Pegado Especial: útil para duplicar ciertos aspectos de una tabla como los valores, el formato, cambió de ubicación, entre otros. Para utilizarlo, copiamos el elemento, ir a Inicio, desplegamos el menú de Pegar y encontramos las siguientes opciones:
+      * Pegar: pega todos los aspectos del elemento
+      * Fórmula: se pierde el formato de la celda y mantiene las fórmulas contenidas en el elemento
+      * Fórmulas y números: se pierde el color del texto y se mantiene las fórmulas y números
+      * Mantener formato de origen: conserva el formato original del elemento
+      * Sin bordes: pega el elemento sin los bordes de las celdas
+      * Mantener ancho de las columnas: conserva el ancho de columnas del elemento original.
+      * Trasponer: Pasa el elemento del formato horizontal al vertical o viceversa
+      * Pegar valores: conserva el texto y sustituye el formato de origen por el default de Excel.
+      * Formato de valores y números: mantiene el formato de valores y números que trae la información por defecto.
+      * Formato de valores de origen: mantiene el formato de origen del elemento
+      * Formato: solamente se conserva el formato del elemento y no el texto
+   * Brocha copiar formato: copia solo el formato de una celda para luego poder duplicarlo en otra celda.
+
+
+
+
+Imprimir documento
+
+
+* Nos vamos a la Ficha de Archivo y luego a imprimir
+* De lado izquierdo veremos los ajustes que podemos hacer
+* De lado derecho una previsualización de cómo se vería el archivo
+* En el menú desplegable de imprimir, puedo escoger 4 opciones de impresión
+* Puedo escoger la impresora donde deseo que salga o para que salga en formato PDF con Microsoft Print to PDF
+* Puedo configurar la orientación, los márgenes, el tamaño y la escala de la hoja. Así como el rango de impresión y si deseamos que salga intercalado
+* Hay configuración más avanzada en la opción Configurar página
+* Una vez configurado a nuestro gusto y con la cantidad de copias deseadas, presionamos en el botón imprimir.
+
+
+
+
+
+
+
+
+Comentarios y notas
+
+
+Lo encontraremos en la ficha de Revisar
+Comentario
+Al abrir hilo de comentarios al seleccionar una celda sin alterar su contenido, podemos ver la fecha de creación y el nombre del creador del comentario. Al dar click al comentario se podrá ver la celda a la que hace referencia. Los siguientes en ver el comentario pueden responder o marcar el hilo como resuelto.
+Notas
+Solo notas, al mover el cursor sobre la celda se puede ver el escrito. La nota se guarda con el nombre del creador y no contiene fecha de creacción como lo tienen los comentarios.
+
+
+Sin embargo, podemos convertir las notas en comentarios, permitiendo que otros comente en el hilo
+
+
+Estadísticas de libro y ortografía
+
+
+Lo encontraremos en la ficha de Revisar
+Ortografía
+Le damos click sobre abc ortografía y nos aparecerán todas las palabras que el formato reconoce con faltas según el idioma seleccionado para la corrección. El idioma se puede modificar para la corrección del archivo, por cada palabra que nos de correcciones tenemos la opción de omitir o corregir eligiendo entre una lista sugerencia que nos da el programa.
+Estadística
+La herramienta estadística permite conocer algunos datos de nuestro archivo, el nombre de la celda en la que termina nuestra hoja con datos, número de celdas con datos, número de tablas y fórmulas… e.t.c.
+Comentario: mi programa wps de excel no tiene esta opción o no la hallo
+
+
+Proteger libro y hoja
+
+
+Vamos a la ficha de revisar y veremos la opción de Proteger hoja, podemos poner una contraseña y también tenemos la opción de seleccionar qué tipos de permisos daremos a los que puedan acceder al documento con la contraseña. 
+
+
+La opción de Proteger libro no permite crear o agregar más hojas de cálculo, al menos que se acceda con una contraseña.
+
+
+
+
+Ayuda de Excel
+
+
+En la ficha ayuda obtendremos opciones como:
+
+
+* Ayuda: da soluciones con funciones disponibles en excel con fórmulas, funciones o lógicas. Son respuestas con ejemplos de cómo aplicar la función.
+* Ponerse en contacto con el soporte técnico: Problemas específicos con el programa, donde se obtiene respuesta del equipo se soporte.
+* Comentarios: Dar sugerencias del programa.
+* Mostrar aprendizaje: Videos de aprendizaje que hace Microsoft que puede ser útil en excel.
+* Novedades: actualizaciones que se integran al programa.
